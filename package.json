@@ -2,7 +2,6 @@
   "name": "css3-html5",
   "version": "0.0.1",
   "description": "Placeholder for css3-html5.de",
-  "main": "index.js",
   "repository": "https://github.com/osartun/css3-html5",
   "author": "Oliver Sartun <osartun@gmail.com>",
   "license": "MIT",
